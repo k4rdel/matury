@@ -1,0 +1,23 @@
+zadanie 1.1 (2,3) 101010 (2,4,6) 75 1001011
+zadanie 1.2
+def J(n):
+    binary = str(bin(n)[2:])
+    print(binary)
+    table = []
+
+    for x in range(len(binary)):
+        if binary[len(binary) - x - 1] == '1':
+            table.append(x + 1)
+
+    print(table)
+J(19)
+zadanie 2.1
+2 6 7 5
+zadanie 2.2
+96 97
+zadanie 3.1
+4489 20
+zadanie 3.2
+2730, 8190, 2310, 4620, 7770, 8610, 4830, 4290, 6930, 6630
+zadanie 3.3
+947 1052 1

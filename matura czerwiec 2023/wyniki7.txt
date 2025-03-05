@@ -1,0 +1,7 @@
+PoliczOfkod_u	typ_u
+16	PC
+2814	Phone
+267	Tablet
+
+Samsung	478
+
